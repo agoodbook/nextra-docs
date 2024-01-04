@@ -11,13 +11,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0.5rem 0.5rem 0.5rem 0;
-    -webkit-mask-image: -webkit-linear-gradient(
-            30deg,
-            black 25%,
-            rgba(0, 0, 0, 0.2) 50%,
-            black 75%
-    );
     mask-image: -webkit-linear-gradient(
             30deg,
             black 25%,
@@ -44,6 +37,6 @@
     );
     -webkit-mask-size: 400%;
     mask-size: 400%;
-    -webkit-mask-position: 0%;
-    mask-position: 0%;
+    -webkit-mask-position: 0;
+    mask-position: 0;
 }
