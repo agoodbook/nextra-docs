@@ -1,5 +1,5 @@
-const username = 'BeHer0';
-const repository = 'SimpleDocs';
+const username = 'agoodbook';
+const repository = 'nextra-docs';
 
 module.exports = {
   username,
