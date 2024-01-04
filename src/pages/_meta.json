@@ -1,0 +1,32 @@
+{
+  "*": {
+    "theme": {
+      "breadcrumb": false
+    }
+  },
+  "index": {
+    "title": "介绍"
+  },
+  "theme": {
+    "title": "文档主题",
+    "theme": {
+      "breadcrumb": true
+    }
+  },
+  "build-ins": {
+    "title": "内置组件",
+    "theme": {
+      "breadcrumb": true
+    }
+  },
+  "deploy": "部署",
+  "zero-configuration": "快速上手",
+  "message-board": {
+    "title": "留言板",
+    "type": "page",
+    "theme": {
+      "sidebar": false,
+      "layout": "full"
+    }
+  }
+}
